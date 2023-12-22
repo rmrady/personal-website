@@ -1,0 +1,18 @@
+
+body{
+    width: 100%;
+    overflow: hidden;
+}
+
+.img-headr{
+    transition: all 600ms ease 0s;
+}
+.img-headr:hover{
+    z-index: 1;
+    transform: scale(0.9);
+}
+main{
+    width: calc(100% + 50px);
+    overflow-y: scroll;
+    height: 100vh;
+}
