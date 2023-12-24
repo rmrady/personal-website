@@ -18,9 +18,6 @@ main{
 } */
 
 .sh{
-    text-shadow:  2px 2px  1px rgb(24, 58, 57);
+    text-shadow:  2px 2px  5px white;
 }
 
-.box-img{
-    box-shadow: 0px 0px 5px 4px rebeccapurple ;
-}
