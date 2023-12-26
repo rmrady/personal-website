@@ -1,5 +1,5 @@
 
-body{
+/* body{
     width: 100%;
     overflow-x: hidden;
 }
@@ -7,9 +7,13 @@ main{
     width:100%;
     overflow-y: scroll;
     height: 100vh;
-}
+} */
 
 .sh{
     text-shadow:  2px 2px  5px white;
+}
+
+.box-img>div{
+    transition: all 2s ease 0s;
 }
 
